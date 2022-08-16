@@ -5,7 +5,7 @@ Projeto realizado no Bootcamp Santander 2022 [Digital Innovation One](https://di
 - Criando um front-end de um e-commerce utilizando Angular e consumindo uma API para exibir as informações dos livros.
 - [API E-commerce](https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts)
 
-# ECommerce
+# E-Commerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
